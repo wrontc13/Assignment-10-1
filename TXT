@@ -1,0 +1,3 @@
+The primary Keys are the default id while the foreign keys are an addition to the original id like if it was Number_Costumers or Number_Order.
+
+The Class name is pluralized to identify the table. 
